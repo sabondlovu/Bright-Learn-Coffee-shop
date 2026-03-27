@@ -22,5 +22,8 @@ My objectives for the project are as follows
   3. Visualisation of the cleaned database
      - Using Excel to create pivot tables
      - Using bar graphs and line graphs
-     - 
+  4. Come up with a strategic plan that will help the CEO grow the business
+     - Suggest coming with campaigns during most selling hours and using the most selling products
+     - Introduce automated daily sells 
+     
   
