@@ -14,7 +14,9 @@ My objectives for the project are as follows
 
   Here's the process I followed to achieve the above.
   1. Received the raw data as an Excel file; the file had to be reviewed to help analyze what information we have.
-     - After thoroughly analyzing the data provided, I then went on Miro to come up with a flow chart that will be used as a guide to creating my analysis
+     - After thoroughly analyzing the data provided,
+     - I then went on Miro to come up with a flow chart that will be used as a guide to creating my analysis
+     - Main points were determined, such as revenue, peak times, and product category 
     
   2. Cleaning data on Databricks, converting commas to numeric numbers
      - created total-amount column
@@ -24,6 +26,6 @@ My objectives for the project are as follows
      - Using bar graphs and line graphs
   4. Come up with a strategic plan that will help the CEO grow the business
      - Suggest coming with campaigns during most selling hours and using the most selling products
-     - Introduce automated daily sells 
+     - Introduce automated daily sales 
      
   
