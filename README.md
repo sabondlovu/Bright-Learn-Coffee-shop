@@ -9,7 +9,7 @@ My objectives for the project are as follows
 - Revenue Analysis - This is to identify products that bring more money into the shop.
 - Identify the most selling products across all different products and store locations
 - Find the difference between the highest and lowest selling products, and look at the underperforming products
-- Come up with strategic recommendations that will assist the CEO in making decisions going forward.
+- Come up with strategic recommendations that will assist the CEO in making decisions in the future.
 
 
   Here's the process I followed to achieve the above.
@@ -26,6 +26,9 @@ My objectives for the project are as follows
      - Using bar graphs and line graphs
   4. Come up with a strategic plan that will help the CEO grow the business
      - Suggest coming with campaigns during most selling hours and using the most selling products
-     - Introduce automated daily sales 
+     - Introduce automated daily sales
+     - Bundle up products, sell those that are selling with non-selling or the popular ones, so people are familiar with the products sold at the shop
+     - Introduce campaigns that will take place during the slow period, so it doesn't affect the organisation's sales
+     - Can also introduce loyalty points to attract returning clients 
      
   
